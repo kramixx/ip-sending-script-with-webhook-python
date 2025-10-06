@@ -1,36 +1,47 @@
+# IP Webhook Script
+
 <p align="center">
-  <!-- Languages -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <!-- Learning / Educational -->
   <img alt="Learning" src="https://img.shields.io/badge/Learning-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <!-- Code style / Safety -->
   <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-brightgreen?style=for-the-badge" />
   <img alt="Safe Testing" src="https://img.shields.io/badge/Safe%20Testing-Yes-brightgreen?style=for-the-badge" />
-  
-  <!-- License -->
   <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge&logo=opensourceinitiative" />
 </p>
 
+## Overview
 
+This Python script retrieves the current IP address of the host machine and transmits it to a specified Discord webhook endpoint. The project demonstrates fundamental Python concepts including HTTP requests, API integration, and webhook implementation.
 
+## Features
 
-<h2><u>Overview:</u></h2>
+- Automatic IP address detection
+- Discord webhook integration
+- Simple configuration
+- Lightweight and efficient
 
-I made a python script to get your ip and sends it to your discord webhook.
+## Purpose
 
-<h2><u>Why i made this:</u></h2>
+This project was developed as an educational exercise to practice:
+- Working with external APIs
+- Implementing webhook functionality
+- Understanding HTTP requests in Python
+- Learning basic Python programming concepts
 
-I made this for learning basic python, such as working with webhooks and external api's.
+## ⚠️ Disclaimer
 
-<h2><u>DISCLAIMER:</u></h2>
+**IMPORTANT:** This project is strictly for educational purposes only.
 
-This project is strictly for educational purposes only and should only be tested on your own machines. Unauthorized use or deploying it to gather data from others without consent is illegal and unethical.
+- Only test this script on your own machines
+- Unauthorized deployment or use to collect data from others without explicit consent is **illegal and unethical**
+- Users are solely responsible for ensuring compliance with applicable laws and regulations
+- The author assumes no liability for misuse of this software
 
-<h2><u>How this will look:</u></h2>
+## Sample Output
 
+Below is an example of how the webhook message appears in Discord:
 
+<img width="498" height="290" alt="Discord Webhook Output Screenshot" src="https://github.com/user-attachments/assets/c29de408-647c-4ac9-87f1-9f4ea4421eb2" />
 
-<img width="498" height="290" alt="Screenshot 2025-10-06 151053" src="https://github.com/user-attachments/assets/c29de408-647c-4ac9-87f1-9f4ea4421eb2" />
+## License
 
+This project is licensed under the MIT License.
