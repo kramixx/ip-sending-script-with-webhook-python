@@ -1,3 +1,12 @@
+<p align="center">
+  <!-- Badges -->
+  <img alt="Language: Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" />
+</p>
+
+
+
+
 <h2><u>Overview:</u></h2>
 
 I made a python script to get your ip and send it to your discord webhook.
