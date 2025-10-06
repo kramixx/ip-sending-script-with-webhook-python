@@ -1,7 +1,16 @@
 <p align="center">
-  <!-- Badges -->
-  <img alt="Language: Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" />
+  <!-- Languages -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <!-- Learning / Educational -->
+  <img alt="Learning" src="https://img.shields.io/badge/Learning-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <!-- Code style / Safety -->
+  <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-brightgreen?style=for-the-badge" />
+  <img alt="Safe Testing" src="https://img.shields.io/badge/Safe%20Testing-Yes-brightgreen?style=for-the-badge" />
+  
+  <!-- License -->
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge&logo=opensourceinitiative" />
 </p>
 
 
