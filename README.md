@@ -26,7 +26,7 @@ I made this for learning basic python, such as working with webhooks and externa
 
 <h2><u>DISCLAIMER:</u></h2>
 
-Never use this tool for malicious purposes, its provided for learning python and its basics in networking never misuse any script that can be misused. You will face alot of bans. So please never use this or any other script for malicious purposes
+This project is strictly for educational purposes only and should only be tested on your own machines. Unauthorized use or deploying it to gather data from others without consent is illegal and unethical.
 
 <h2><u>How this will look:</u></h2>
 
