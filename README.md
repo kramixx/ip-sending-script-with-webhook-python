@@ -18,7 +18,7 @@
 
 <h2><u>Overview:</u></h2>
 
-I made a python script to get your ip and send it to your discord webhook.
+I made a python script to get your ip and sends it to your discord webhook.
 
 <h2><u>Why i made this:</u></h2>
 
