@@ -98,9 +98,9 @@ def send_to_discord(webhook, ip):
         return False
 
 def main():
-    webhook_url = "https://discord.com/api/webhooks/1421427465213055027/dsf-v3TC8uWXtJwd-i6E86_qUOTD6Z7Kq0d9oCLDAlTi5OJpLpoLARb3OBxnrDBKcYns"
+    webhook_url = "your_webhook"
     
-    if webhook_url == "YOUR_DISCORD_WEBHOOK_URL_HERE":
+    if webhook_url == "your_webhook":
         print("No webhook set up.")
         return
     
@@ -116,4 +116,5 @@ def main():
         print("Something went wrong sending the message.")
 
 if __name__ == "__main__":
+
     main()
